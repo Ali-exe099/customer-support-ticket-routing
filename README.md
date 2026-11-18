@@ -70,5 +70,3 @@ Start with this README, then review the BRD and FRD. The process diagrams and us
 
 Bueck, Tobias. *Multilingual Customer Support Tickets*. Kaggle.  
 https://www.kaggle.com/datasets/tobiasbueck/multilingual-customer-support-tickets
-
-Check the dataset's current licence and attribution terms before redistributing any raw records. This repository is intended to hold the project documentation; do not commit the dataset itself unless its licence permits it.
